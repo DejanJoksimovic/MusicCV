@@ -10,4 +10,4 @@
 - <a href="https://www.youtube.com/watch?v=AM49SV3tk1g" target="_blank">Blackout - Video (YouTube)</a>
 
 ## Case:Remnant
-- <a href="https://www.youtube.com/@caseRemnant" target="_blank">Youtube channel</a>
+- <a href="https://www.youtube.com/@caseRemnant/videos" target="_blank">Youtube channel (videos)</a>

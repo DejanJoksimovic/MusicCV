@@ -1,4 +1,4 @@
-# MusicCV
+# Bands:
 
 ## Crave
 - <a href="https://soundcloud.com/d_e_k_i" target="_blank">SoundCloud</a>

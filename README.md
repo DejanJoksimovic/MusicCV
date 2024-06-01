@@ -31,6 +31,8 @@
 12. Journey Home Part 3 and 4 - Descendants - Home
 </details>
 
+2024 Mechanical Person (Single) (TBR?)
+
 <details>
 <summary>2021 Red Blue Soundtrack</summary>
 <br>
@@ -79,6 +81,14 @@
 - <a href="https://www.youtube.com/watch?v=oT6SswH7g6k" target="_blank">Within The Mirror - Album (YouTube)</a>
 - <a href="https://soundcloud.com/d_e_k_i/nexus-path-of-recreation" target="_blank">Path Of Recreation - Album (SoundCloud)</a>
 - <a href="https://www.youtube.com/watch?v=AM49SV3tk1g" target="_blank">Blackout - Video (YouTube)</a>
+
+<details>
+  <summary>2024 Blacksmith (TBR?)</summary>
+  <br>
+  1. Blacksmith
+  <br>
+  2. I Float
+</details>
 
 <details>
 <summary>2017 Path Of Recreation</summary>

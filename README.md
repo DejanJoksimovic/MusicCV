@@ -32,6 +32,8 @@
 </details>
 
 2024 Mechanical Person (Single) (TBR?)
+<br>
+2024 The Demons Are Speaking (Single) (TBR?)
 
 <details>
 <summary>2021 Red Blue Soundtrack</summary>

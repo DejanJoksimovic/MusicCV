@@ -18,22 +18,34 @@
   <br>
 6. Among The Clouds
   <br>
-7. Black
+7. Journey Home Part 1 - Never Ending Shade
   <br>
-8. Journey Home Part 1 - Never Ending Shade
+8. Still Among The Clouds
   <br>
-9. Machine Tied Deal
+9. Journey Home Part 2 - While You Are Still Here
   <br>
-10. Still Among The Clouds
+10. Journey Home Part 3 and 4 - Descendants - Home
   <br>
-11. Journey Home Part 2 - While You Are Still Here
-  <br>
-12. Journey Home Part 3 and 4 - Descendants - Home
+11. Encipher Tantrum
 </details>
 
-2024 Mechanical Person (Single) (TBR?)
-<br>
-2024 The Demons Are Speaking (Single) (TBR?)
+<details>
+  <summary>2024 Dark Light (side 2) (TBR?)</summary>
+  <br>
+  1. Blacksmith
+  <br>
+  2. I Float
+  <br>
+  3. Mechanical Person
+  <br>
+  4. The Demons Are Speaking
+  <br>
+  5. Machine Tied Deal
+  <br>
+  6. Black
+  <br>
+  7. Hell Is Other People
+</details>
 
 <details>
 <summary>2021 Red Blue Soundtrack</summary>
@@ -83,14 +95,6 @@
 - <a href="https://www.youtube.com/watch?v=oT6SswH7g6k" target="_blank">Within The Mirror - Album (YouTube)</a>
 - <a href="https://soundcloud.com/d_e_k_i/nexus-path-of-recreation" target="_blank">Path Of Recreation - Album (SoundCloud)</a>
 - <a href="https://www.youtube.com/watch?v=AM49SV3tk1g" target="_blank">Blackout - Video (YouTube)</a>
-
-<details>
-  <summary>2024 Blacksmith (TBR?)</summary>
-  <br>
-  1. Blacksmith
-  <br>
-  2. I Float
-</details>
 
 <details>
 <summary>2017 Path Of Recreation</summary>

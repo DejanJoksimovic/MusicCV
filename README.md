@@ -181,3 +181,8 @@
   <br>
 6. Connections
   </details>
+
+# Animated films music
+
+- <a href="https://www.youtube.com/watch?v=JeEy8voeE0s" target="_blank">The Vision (Chevrolet)</a>
+- <a href="https://www.youtube.com/watch?v=c-AZUs7a4EU" target="_blank">Connection (Manchester United)</a>

@@ -3,6 +3,33 @@
 ## Crave
 - <a href="https://soundcloud.com/d_e_k_i" target="_blank">SoundCloud</a>
 - <a href="https://www.youtube.com/watch?v=O4yE-yH6KT0" target="_blank">Another Time - Video (YouTube)</a>
+
+<details>
+  <summary>2025 Red Green Soundtrack (TBR)</summary>
+  <br>
+  1. Blacksmith
+  <br>
+  2. I Float
+  <br>
+  3. Mechanical Person
+  <br>
+  4. The Demons Are Speaking
+  <br>
+  5. Machine Tied Deal
+  <br>
+  6. Black
+  <br>
+  7. Hell Is Other People
+    <br>
+  8. Encipher Tantrum
+    <br>
+  9. Decypher
+    <br>
+  10. Fluctual
+    <br>
+  11. Meaning Of Green
+</details>
+
 <details>
 <summary>2024 Dark Light (TBR)</summary>
 <br>
@@ -25,26 +52,6 @@
 9. Journey Home Part 2 - While You Are Still Here
   <br>
 10. Journey Home Part 3 and 4 - Descendants - Home
-  <br>
-11. Encipher Tantrum
-</details>
-
-<details>
-  <summary>2024 Dark Light (side 2) (TBR?)</summary>
-  <br>
-  1. Blacksmith
-  <br>
-  2. I Float
-  <br>
-  3. Mechanical Person
-  <br>
-  4. The Demons Are Speaking
-  <br>
-  5. Machine Tied Deal
-  <br>
-  6. Black
-  <br>
-  7. Hell Is Other People
 </details>
 
 <details>

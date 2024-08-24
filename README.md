@@ -31,7 +31,7 @@
 </details>
 
 <details>
-<summary>2024 Dark Light (TBR)</summary>
+<summary>2024 Dark Light</summary>
 <br>
 1. After Dawn
   <br>

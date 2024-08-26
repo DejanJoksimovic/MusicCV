@@ -3,6 +3,7 @@
 ## Crave
 - <a href="https://soundcloud.com/d_e_k_i" target="_blank">SoundCloud</a>
 - <a href="https://www.youtube.com/watch?v=O4yE-yH6KT0" target="_blank">Another Time - Video (YouTube)</a>
+- <a href="https://www.youtube.com/@low-riffs-and-frontend" target="_blank">YouTube Channel</a>
 
 <details>
   <summary>2025 Red Green Soundtrack (TBR)</summary>

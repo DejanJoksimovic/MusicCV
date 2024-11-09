@@ -6,32 +6,6 @@
 - <a href="https://www.youtube.com/@low-riffs-and-frontend" target="_blank">YouTube Channel</a>
 
 <details>
-  <summary>2025 Red Green Soundtrack (TBR)</summary>
-  <br>
-  1. Blacksmith
-  <br>
-  2. I Float
-  <br>
-  3. Mechanical Person
-  <br>
-  4. The Demons Are Speaking
-  <br>
-  5. Machine Tied Deal
-  <br>
-  6. Black
-  <br>
-  7. Hell Is Other People
-    <br>
-  8. Encipher Tantrum
-    <br>
-  9. Decypher
-    <br>
-  10. Fluctual
-    <br>
-  11. Prey
-</details>
-
-<details>
 <summary>2024 Dark Light</summary>
 <br>
 1. After Dawn

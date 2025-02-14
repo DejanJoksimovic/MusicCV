@@ -1,9 +1,32 @@
 # Bands:
 
 ## Crave
-- <a href="https://soundcloud.com/d_e_k_i" target="_blank">SoundCloud</a>
 - <a href="https://www.youtube.com/watch?v=O4yE-yH6KT0" target="_blank">Another Time - Video (YouTube)</a>
 - <a href="https://www.youtube.com/@low-riffs-and-frontend" target="_blank">YouTube Channel</a>
+
+<details>
+<summary>2025 R.G. Hybrid</summary>
+<br>
+1. Supernova (Encipher Tantrum)
+  <br>
+2. I Float
+  <br>
+3. Hell Is Other People
+  <br>
+4. Machine Tied Deal
+  <br>
+5. Black
+  <br>
+6. The Demons Are Speaking
+  <br>
+7. Blacksmith
+  <br>
+8. Pray
+  <br>
+9. Decipher
+  <br>
+10. Journey Home Part 5 - Stay
+</details>
 
 <details>
 <summary>2024 Dark Light</summary>

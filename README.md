@@ -100,6 +100,7 @@
 - <a href="https://www.youtube.com/watch?v=oT6SswH7g6k" target="_blank">Within The Mirror - Album (YouTube)</a>
 - <a href="https://soundcloud.com/d_e_k_i/nexus-path-of-recreation" target="_blank">Path Of Recreation - Album (SoundCloud)</a>
 - <a href="https://www.youtube.com/watch?v=AM49SV3tk1g" target="_blank">Blackout - Video (YouTube)</a>
+- <a href="https://youtu.be/UIUwUu9CCGw?si=IQpMSuuNLtiti8wR">Live in Zappa Baza 2025 (YouTube)</a>
 
 <details>
 <summary>2017 Path Of Recreation</summary>

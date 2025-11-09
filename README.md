@@ -5,6 +5,17 @@
 - <a href="https://www.youtube.com/@low-riffs-and-frontend" target="_blank">YouTube Channel</a>
 
 <details>
+<summary>TBD Cure The Land</summary>
+<br>
+1. Will I Ever See You Again
+  <br>
+2. Insignificant Other
+  <br>
+3. Eris
+  <br>
+</details>
+
+<details>
 <summary>2025 R.G. Hybrid</summary>
 <br>
 1. Supernova (Encipher Tantrum)

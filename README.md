@@ -7,11 +7,15 @@
 <details>
 <summary>TBD Cure The Land</summary>
 <br>
-1. Will I Ever See You Again
+1. Insignificant Other
   <br>
-2. Insignificant Other
+2. Will I Ever See You Again
   <br>
-3. Eris
+3. Stay
+  <br>
+4. Eris
+  <br>
+5. Supernova
   <br>
 </details>
 

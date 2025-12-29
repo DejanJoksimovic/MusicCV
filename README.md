@@ -1,7 +1,8 @@
 # Bands:
 
 ## Crave
-- <a href="https://www.youtube.com/watch?v=O4yE-yH6KT0" target="_blank">Another Time - Video (YouTube)</a>
+- <a href="https://www.youtube.com/watch?v=QBM5fAl94XY" target="_blank">Eris (YouTube)</a>
+- <a href="https://www.youtube.com/watch?v=O4yE-yH6KT0" target="_blank">Another Time (YouTube)</a>
 - <a href="https://www.youtube.com/@low-riffs-and-frontend" target="_blank">YouTube Channel</a>
 
 <details>

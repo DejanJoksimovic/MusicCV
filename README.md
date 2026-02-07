@@ -12,13 +12,11 @@
   <br>
 2. Will I Ever See You Again
   <br>
-3. Stay
+3. Eris
   <br>
-4. Eris
-  <br>
-5. Wolves In The Moonlight
-  <br>
-6. Supernova
+4. Wolves In The Moonlight
+<br>
+5. Crossings
   <br>
 </details>
 

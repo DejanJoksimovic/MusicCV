@@ -18,6 +18,8 @@
 <br>
 5. Crossings
   <br>
+6. Soul Weight
+  <br>
 </details>
 
 <details>

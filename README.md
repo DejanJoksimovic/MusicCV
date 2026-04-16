@@ -20,6 +20,8 @@
   <br>
 6. Soul Weight
   <br>
+7. Fire In Your Eyes
+  <br>
 </details>
 
 <details>

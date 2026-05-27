@@ -1,6 +1,7 @@
 # Bands:
 
 ## Crave
+- <a href="https://youtu.be/TvGh4w03elk?si=x31_j70q6t_F0sCv" target="blank">Wolves In The Moonlight (Youtube)</a>
 - <a href="https://www.youtube.com/watch?v=QBM5fAl94XY" target="_blank">Eris (YouTube)</a>
 - <a href="https://www.youtube.com/watch?v=O4yE-yH6KT0" target="_blank">Another Time (YouTube)</a>
 - <a href="https://www.youtube.com/@low-riffs-and-frontend" target="_blank">YouTube Channel</a>
@@ -21,6 +22,8 @@
 6. Soul Weight
   <br>
 7. Fire In Your Eyes
+  <br>
+8. Belong Anymore
   <br>
 </details>
 

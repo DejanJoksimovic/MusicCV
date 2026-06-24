@@ -7,7 +7,7 @@
 - <a href="https://www.youtube.com/@low-riffs-and-frontend" target="_blank">YouTube Channel</a>
 
 <details>
-<summary>TBD Cure The Land</summary>
+<summary>2026 Cure The Land</summary>
 <br>
 1. Insignificant Other
   <br>

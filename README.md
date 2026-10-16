@@ -7,6 +7,15 @@
 - <a href="https://www.youtube.com/@low-riffs-and-frontend" target="_blank">YouTube Channel</a>
 
 <details>
+<summary>2028 Holism</summary>
+<br>
+1. Symmetric Shadows
+  <br>
+2. Coalescence
+  <br>
+</details>
+
+<details>
 <summary>2026 Cure The Land</summary>
 <br>
 1. Insignificant Other
